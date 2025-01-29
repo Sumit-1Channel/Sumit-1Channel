@@ -1,7 +1,3 @@
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/Sumit-1Channel/count.svg" />
-</p>
 <img src="https://raw.githubusercontent.com/Sumit-1Channel/Sumit-1Channel/main/resources/banner.png" alt="Hello world">
 
 ## Hi there 👋
@@ -17,3 +13,8 @@
 
 |![SumitBikram's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sumit-1Channel&show_icons=true&theme=radical) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sumit-1Channel&layout=donut&theme=radical&langs_count=4)|
 | ---------- | ---------- |
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/Sumit-1Channel/count.svg" />
+</p>
