@@ -2,7 +2,7 @@
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/Sumit-1Channel/count.svg" />
 </p>
-<img src="https://raw.githubusercontent.com/Sumit-1Channel/Sumit-1Channel/master/resources/banner.png" alt="Hello world">
+<img src="https://raw.githubusercontent.com/Sumit-1Channel/Sumit-1Channel/main/resources/banner.png" alt="Hello world">
 
 ## Hi there 👋
 
